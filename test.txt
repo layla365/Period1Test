@@ -1,0 +1,5 @@
+this is a test of the text editor.
+
+this is in terminal and not some other program
+
+
